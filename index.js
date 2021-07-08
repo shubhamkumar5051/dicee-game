@@ -14,10 +14,10 @@ randomNumber2=Math.floor(randomNumber2);
 
 // changing dice images using dom
 var randomDiceImage1="dice" + randomNumber1 + ".png";
-var randomImageSource1="/images/"+randomDiceImage1;
+var randomImageSource1="images/"+randomDiceImage1;
 
 // var randomDiceImage2="dice" + randomNumber2 + ".png";
-var randomImageSource2="/images/dice"+randomNumber2+".png";
+var randomImageSource2="images/dice"+randomNumber2+".png";
 
 
 //changing dice using query selector
